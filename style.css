@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(124, 186, 236);
+    color:darkgoldenrod;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+#llive_camera{
+    border :2px dashed black ;
+    width: 350px;
+    height: 300px;
+}
+.list_of_objects,#object_name,#accuracy{
+color:deeppink;
+}
